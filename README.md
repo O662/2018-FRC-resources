@@ -5,4 +5,6 @@ One stop shop for Cy-Borgs needing information for the 2018 game
 
 **[FRC Control System](http://wpilib.screenstepslive.com/s/currentCS)**
 
+**[CTRE Installation](https://github.com/CrossTheRoadElec/Phoenix-Documentation#installing-phoenix-framework-onto-your-frc-robot)**
+
 **[GradleRIO project](https://github.com/Open-RIO/GradleRIO)**
