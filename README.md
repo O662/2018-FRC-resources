@@ -7,6 +7,8 @@ One stop shop for Cy-Borgs needing information for the 2018 game
 
 **[CTRE Documentation](https://github.com/CrossTheRoadElec/Phoenix-Documentation)**
 
+**[encodor webpage](https://www.digikey.com/product-detail/en/greyhill-inc/63R256/GH3070-ND/304479)**
+
 [Migration Guide](https://github.com/CrossTheRoadElec/Phoenix-Documentation/blob/master/Migration%20Guide.md)
 
 **[GradleRIO project](https://github.com/Open-RIO/GradleRIO)**
